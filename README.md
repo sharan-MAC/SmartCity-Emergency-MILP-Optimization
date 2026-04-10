@@ -45,5 +45,7 @@ This project was developed as an extension of:
 > *Pardede, A. M. H., et al. (2024). "Optimization of Smart Public Service Model with Limited Resources Using Linear Programming." Journal of Theoretical and Applied Information Technology (JATIT).*
 
 ## 📧 Contact
-**[Your Name]** Department of Computer Science & Engineering  
-[Your Institution]
+Sharan R H
+Department of Computer Science & Engineering  
+Vidyashilp University
+
